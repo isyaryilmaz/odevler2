@@ -1,0 +1,14 @@
+C:\Users\siyar\OneDrive\Masaüstü\Constructor and Composition\Constructor And Composition\Constructor And Composition\bin\Debug\net8.0\Constructor And Composition.exe
+C:\Users\siyar\OneDrive\Masaüstü\Constructor and Composition\Constructor And Composition\Constructor And Composition\bin\Debug\net8.0\Constructor And Composition.deps.json
+C:\Users\siyar\OneDrive\Masaüstü\Constructor and Composition\Constructor And Composition\Constructor And Composition\bin\Debug\net8.0\Constructor And Composition.runtimeconfig.json
+C:\Users\siyar\OneDrive\Masaüstü\Constructor and Composition\Constructor And Composition\Constructor And Composition\bin\Debug\net8.0\Constructor And Composition.dll
+C:\Users\siyar\OneDrive\Masaüstü\Constructor and Composition\Constructor And Composition\Constructor And Composition\bin\Debug\net8.0\Constructor And Composition.pdb
+C:\Users\siyar\OneDrive\Masaüstü\Constructor and Composition\Constructor And Composition\Constructor And Composition\obj\Debug\net8.0\Constructor And Composition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siyar\OneDrive\Masaüstü\Constructor and Composition\Constructor And Composition\Constructor And Composition\obj\Debug\net8.0\Constructor And Composition.AssemblyInfoInputs.cache
+C:\Users\siyar\OneDrive\Masaüstü\Constructor and Composition\Constructor And Composition\Constructor And Composition\obj\Debug\net8.0\Constructor And Composition.AssemblyInfo.cs
+C:\Users\siyar\OneDrive\Masaüstü\Constructor and Composition\Constructor And Composition\Constructor And Composition\obj\Debug\net8.0\Constructor And Composition.csproj.CoreCompileInputs.cache
+C:\Users\siyar\OneDrive\Masaüstü\Constructor and Composition\Constructor And Composition\Constructor And Composition\obj\Debug\net8.0\Constructor And Composition.dll
+C:\Users\siyar\OneDrive\Masaüstü\Constructor and Composition\Constructor And Composition\Constructor And Composition\obj\Debug\net8.0\refint\Constructor And Composition.dll
+C:\Users\siyar\OneDrive\Masaüstü\Constructor and Composition\Constructor And Composition\Constructor And Composition\obj\Debug\net8.0\Constructor And Composition.pdb
+C:\Users\siyar\OneDrive\Masaüstü\Constructor and Composition\Constructor And Composition\Constructor And Composition\obj\Debug\net8.0\Constructor And Composition.genruntimeconfig.cache
+C:\Users\siyar\OneDrive\Masaüstü\Constructor and Composition\Constructor And Composition\Constructor And Composition\obj\Debug\net8.0\ref\Constructor And Composition.dll
